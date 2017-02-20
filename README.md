@@ -3,11 +3,11 @@ Server reads a file and Clients connect and get the 10 most frequent words in th
 ###########################################################################################
 There are 2 different Java projects made with Eclipse with the following names and structure:
 
->Client
+Client
   -src
     -Statistics.java
     -TextClient.java (incudes main method)
->Server
+Server
   -islands_in_the_stream.txt
   -src
     -TextProcessor.java
